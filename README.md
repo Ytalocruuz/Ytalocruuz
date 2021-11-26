@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ytalo Cruz👋
 
 - 👨‍🎓 Formado em Técnico em Informática e Desenvolvedor Front-End Jr
-- 📖 Estudando Typescript 
+- 📖 Estudando Beck-End
 
 <div align="center">
   <a href="https://github.com/ytalocruuz">
