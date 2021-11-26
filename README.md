@@ -14,6 +14,8 @@
   <img align="center" alt="Yta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Yta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <i class="fab fa-sass"></i>
+  
 </div>
   
   ##
@@ -25,6 +27,7 @@
  
 </div>
   
+  <script src="https://kit.fontawesome.com/b6059988f3.js" crossorigin="anonymous"></script>
   ![Snake animation](https://github.com/ytalocruuz/ytalocruuz/blob/output/github-contribution-grid-snake.svg)
   
 
