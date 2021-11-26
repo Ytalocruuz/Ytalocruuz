@@ -14,8 +14,9 @@
   <img align="center" alt="Yta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Yta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Yta-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/72119120/143659610-0f19c4b6-51ec-49b2-a033-9f420db16b1a.png">
 </div>
-  
+ 
   ##
   <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a> 
