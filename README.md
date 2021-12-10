@@ -1,6 +1,7 @@
 ### Olá! Sou Ytalo Cruz<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 - 👨‍🎓 Formado em Técnico em Informática e Desenvolvedor Front-End Jr
+
 - 📖 Estudando Back-End
 
 <div align="center">
@@ -8,6 +9,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ytalocruuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytalocruuz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  ## Tecnologias
   <div style="display: inline_block"><br>
   <img align="center" alt="Yta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yta-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,7 +22,8 @@
   <img align="center" alt="Yta-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
  
-  ##
+  ## Mais informações, conecta-se comigo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+  
   <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a> 
  	<a href="https://api.whatsapp.com/send?1=pt_BR&phone=5592984745944" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
