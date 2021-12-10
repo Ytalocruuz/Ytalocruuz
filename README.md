@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ytalo Cruz👋
+### Olá! Sou Ytalo Cruz<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 - 👨‍🎓 Formado em Técnico em Informática e Desenvolvedor Front-End Jr
 - 📖 Estudando Back-End
