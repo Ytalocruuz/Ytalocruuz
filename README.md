@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Front-End Developer e Técnico de Informática
 
-- 📖 Atualmente estudando Back-End
+- 📖 Atualmente graduando Análise e Desenvolvimento de Sistema
 
 <div align="center">
   <a href="https://github.com/ytalocruuz">
