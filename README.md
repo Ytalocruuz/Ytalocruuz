@@ -20,7 +20,7 @@
   <img align="center" alt="Yta-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Yta-SCSS" height="30" width="40" src="https://user-images.githubusercontent.com/72119120/143659610-0f19c4b6-51ec-49b2-a033-9f420db16b1a.png">
   <img align="center" alt="Yta-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img lign="center" alt="Yta-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
  
   ## Mais informações, conecta-se comigo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
