@@ -1,6 +1,6 @@
 ### Oi! Sou Ytalo Cruz<img> 
 
-- 👨‍🎓 Front-End Developer e Técnico de Informática
+- 👨‍🎓 Front-End Developer e Técnico em Informática
 
 - 📖 Atualmente graduando Engenharia de Software
 
